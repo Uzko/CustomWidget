@@ -1,10 +1,2 @@
 /* JavaFX CSS Style with -fx- prefix */
 
-.b11{
-    -fx-fill: #ffffff;
-}
-
-
-.ficus{
-    -fx-text-fill: linear-gradient(to right, #0047cc, #005aff, #3898ff);
-}
